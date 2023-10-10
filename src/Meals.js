@@ -14,9 +14,9 @@ export function Meals() {
           style={{
             border: "4px dashed #181b1e",
           }}
-          className="bg-achieved flex h-32 flex-col justify-center gap-2 rounded-xl px-8"
+          className="flex h-32 flex-col items-center justify-center gap-2  rounded-xl bg-achieved px-8"
         >
-          <p className="text-2xl">Achievment unlocked! ⭐</p>
+          <p className="text-2xl">⭐ Achievment unlocked! ⭐</p>
           <p className="text-4xl">🐱‍🏍 Full belly secured 🐱‍🏍</p>
         </div>
       ) : (
